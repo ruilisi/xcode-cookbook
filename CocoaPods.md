@@ -3,7 +3,7 @@
 # Hover
 将如下代码加入到podfile：
 ```swift
- pod 'CompatibleHover'
+pod 'CompatibleHover'
 ```
 
 终端内执行以下命令：
