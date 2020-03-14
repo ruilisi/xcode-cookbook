@@ -222,7 +222,7 @@ pod install
 
 引入SwiftEntryKit：
 ```swift
-import CompatibleHover
+import SwiftEntryKit
 ```
 
 ## ToastMessage
