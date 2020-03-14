@@ -212,7 +212,7 @@ SwiftEntryKit是一个非常强大的组件，他可以实现几乎所有的弹�
 
 将如下代码加入到podfile：
 ```swift
- pod 'SwiftEntryKit'
+pod 'SwiftEntryKit'
 ```
 
 终端内执行以下命令：
