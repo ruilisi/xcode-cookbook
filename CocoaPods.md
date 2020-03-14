@@ -302,8 +302,9 @@ attributes.statusBar = .dark
 //TODO
 第一行属性指定了`attributes`的类型，这里指定的类型为底部提示信息其他的类型还有：
 
-| toast | 弹出提示信息 |
+|属性|说明|
 | --- | --- |
+| toast | 弹出提示信息 |
 | float | 悬浮信息 |
 | topFloat | 顶部悬浮信息 |
 | bottomFloat | 底部悬浮信息 |
