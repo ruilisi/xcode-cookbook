@@ -61,13 +61,13 @@ var AnimationView.respectAnimationFrameRate: Bool { get set }
 - 若设置为true，将以json编码文件的速率来播放；
 - 若为false，将以设备的帧率来播放。
 
-### [Is Animation Playing](http://airbnb.io/lottie/#/ios?id=is-animation-playing)
+### Is Animation Playing
 ```swift
 var AnimationView.isAnimationPlaying: Bool { get set }
 ```
 用于判断当前动画是否在播放，若为`true`则为正在播放，`false`则为没在播放。（没搞懂为什么要set，停止播放直接pause或者stop不就达到效果了吗？）
 
-### [Background Behavior](http://airbnb.io/lottie/#/ios?id=background-behavior)
+### Background Behavior
 ```swift
 var AnimationView.backgroundBehavior: LottieBackgroundBehavior { get set }
 ```
