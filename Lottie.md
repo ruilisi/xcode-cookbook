@@ -6,13 +6,13 @@ gitub:[https://github.com/airbnb/lottie-ios](https://github.com/airbnb/lottie-io
 website:[http://airbnb.io/lottie/#/ios](http://airbnb.io/lottie/#/ios)
 # 安装Lottie
 将如下代码加入到podfile：
-```swift
+```json
 pod 'lottie-ios'
 ```
 
 
 终端内执行以下命令：
-```swift
+```shell
 pod install
 ```
 
